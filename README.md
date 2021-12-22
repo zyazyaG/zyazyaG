@@ -1,16 +1,16 @@
 ### Hi there 👋
+### Welcome to my profile!
 
-<!--
-**zyazyaG/zyazyaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![img1](image1.jpg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data Scince Projects
+- 🌱 Everyday I'm improving myself as a person, data scientist and tennis player!
+- 👯 I’m looking to collaborate on anything! Any experience and collaboration is great opportunity! 🙌🏻
+- 💬 Ask me about anything! If I know the answer - gladly will share, and if I don't - we can search for it together! 🤝
+- 📫 How to reach me: 
+     **Email:** agulyamova14@gmail.com
+     **LinkedIn:** https://www.linkedin.com/in/azizagulyamova/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can't live without chocolates 🍫🍫🍫
+
