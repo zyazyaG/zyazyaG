@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### Welcome to my profile!
 
-![img1](image1.jpg)
+
+![1637693467150](https://user-images.githubusercontent.com/60637918/147042748-a405bd48-3da3-4f83-84c7-e5a3f3fc26ba.jpeg)
 
 
 - 🔭 I’m currently working on Data Scince Projects
