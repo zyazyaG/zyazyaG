@@ -13,5 +13,5 @@
      - **Email:** agulyamova14@gmail.com
      - **LinkedIn:** https://www.linkedin.com/in/azizagulyamova/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can't live without chocolates 🍫🍫🍫
+- ⚡ Fun fact: I love Lego, Puzzels and Murder Mystery games!
 
